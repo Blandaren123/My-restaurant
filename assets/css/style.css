@@ -24,6 +24,19 @@ color: #1B2631 ;
 
 #my-logo{
 float: left;
-font-size: 250%;
+font-size: 300%;
 
+}
+
+/* navigation */
+#navigation{
+font-size: 120%;
+letter-spacing: 4px;
+
+}
+#navigation li {
+
+    float: right;
+    list-style-type: none;
+    margin-right: 50px;
 }
