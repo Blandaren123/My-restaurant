@@ -11,6 +11,7 @@ body {
 font-family: Cabin Condensed, sans-serif;
 font-weight: 400;
 color: #979A9A;
+background-color: #D0ECE7;
 }
 
 /* headings and logo */
@@ -34,9 +35,21 @@ font-size: 120%;
 letter-spacing: 4px;
 
 }
+
+#navigation, #my-logo {
+
+    line-height: 90px;
+
+
+}
+
 #navigation li {
 
     float: right;
     list-style-type: none;
     margin-right: 50px;
+}
+#navigation a{
+    text-decoration: none;
+    color: inherit;
 }
