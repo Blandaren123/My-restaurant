@@ -11,7 +11,7 @@ body {
 font-family: Cabin Condensed, sans-serif;
 font-weight: 400;
 color: #979A9A;
-background-color: #D0ECE7;
+background-color: #000000;
 }
 
 /* headings and logo */
@@ -20,7 +20,7 @@ h1, h2 {
 font-family: Montserrat, sans-serif;
 text-transform: uppercase;
 letter-spacing: 4px;
-color: #1B2631 ;
+color: #D5DBDB  ;
 }
 
 #my-logo{
@@ -52,4 +52,9 @@ letter-spacing: 4px;
 #navigation a{
     text-decoration: none;
     color: inherit;
+}
+
+#navigation a:hover {
+border-bottom: 4px solid #FDFEFE;
+
 }
