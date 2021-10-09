@@ -60,7 +60,7 @@ border-bottom: 4px solid #FDFEFE;
 
 }
 
-/* Image */
+/* Image and motivation*/
 #image{
 min-height: 100vh;
 width: 100%;
@@ -70,4 +70,17 @@ background-position: center;
 display: flex;
 justify-content: flex-start;
 align-items: center;
+}
+
+.motivation{
+max-width: 600px;
+}
+
+.motivation > h1 {
+    padding-left: 50px;
+    padding-bottom: 650px;
+    font-size: 1.1em;
+    color:#979A9A;
+    
+    
 }
