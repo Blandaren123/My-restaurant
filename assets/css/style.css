@@ -8,7 +8,7 @@
 }
 
 body {
-font-family: Cabin Condensed, sans-serif;
+font-family: Cabin Condensed, Monserrat;
 font-weight: 400;
 color: #979A9A;
 background-color: #000000;
@@ -17,7 +17,7 @@ background-color: #000000;
 /* headings and logo */
 
 h1, h2 {
-font-family: Montserrat, sans-serif;
+font-family: Cabin Condensed, Monserrat;
 text-transform: uppercase;
 letter-spacing: 4px;
 color: #D5DBDB  ;
@@ -76,11 +76,30 @@ align-items: center;
 max-width: 600px;
 }
 
-.motivation > h1 {
-    padding-left: 50px;
+.motivation h1 {
+    padding-left: 200px;
+    font-size: 2.1em;
     padding-bottom: 650px;
-    font-size: 1.1em;
     color:#979A9A;
     
     
+}
+
+/*  About  */
+#about{
+
+
+}
+#about h2, h3{
+text-align: center;
+}
+#about p{
+padding-left: 10px;
+font-size: 25px;
+
+}
+#about ul{
+    padding-left: 30px;
+    list-style-type: disc;
+    font-size: 20px;
 }
