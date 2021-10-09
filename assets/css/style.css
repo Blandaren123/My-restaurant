@@ -59,6 +59,13 @@ letter-spacing: 4px;
 border-bottom: 4px solid #FDFEFE;
 
 }
+ .navbar {
+    overflow: hidden;
+    position: fixed; 
+    top: 0; 
+    width: 100%; 
+ }
+
 
 /* Image and motivation*/
 #image{
@@ -87,8 +94,15 @@ max-width: 600px;
 
 /*  About  */
 #about{
-
-
+    padding: 5rem 0;
+    margin-bottom: 20px;
+    background-image: url(../images/EQ.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: bottom center;
+    background-attachment: fixed;
+    min-height: 60vh;
+    
 }
 #about h2, h3{
 text-align: center;
@@ -102,4 +116,25 @@ font-size: 25px;
     padding-left: 30px;
     list-style-type: disc;
     font-size: 20px;
+}
+
+/* Join Now  */
+#join-now{
+
+
+}
+#join-now h2{
+
+    text-align: center;
+}
+
+.join-button{
+    margin-top:20px;
+    border-radius:2px;
+    padding:15px 32px 15px 32px;
+    text-align:center;
+    font-size:100%;
+    background-color:#7B241C;
+    color:#979A9A;
+    display:block;
 }
