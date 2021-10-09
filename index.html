@@ -20,7 +20,7 @@
         <ul id="navigation">
             
           <li><a href="#contact">Contact</a></li>
-          <li><a href="#join-now">Join now</a></li>
+          <li><a href="#form">Join now</a></li>
           <li><a href="#about" class="active">About</a></li>
         </ul>
       </nav>
@@ -52,47 +52,48 @@
         
     
     </ul>
-
-
+<br><br><br>
+    <h2 id="hours">Open 24-hours</h2>
        
    </section>
-   <section id="join-now">
+   <section id="form">
        <h2>Join Now</h2>
-       <div class="join">
+       
            
-           <form id="register" method="POST">
+           <form id="register" method="POST" class="signup">
                <label>First Name</label>
                <br>
-               <input type="text" name="fname" id="name"
+               <input class="text-input" type="text" name="fname" id="name"
                placeholder="Enter Your First Name" required>
                <br>
                <br>
                <label>Last Name</label>
                <br>
-               <input type="text" name="lname" id="name"
+               <input class="text-input" type="text" name="lname" id="name"
                placeholder="Enter Your Last Name" required>
                <br>
                <br>
                <label>Age</label>
                <br>
-               <input type="number" name="age" id="name"
+               <input class="text-input" type="number" min="16" name="age" id="name"
                placeholder="Must be over 16!" required>
                <br>
                <br>
                <label>Email</label>
                <br>
-               <input type="email" name="email"
+               <input class="text-input" type="email" name="email"
                id="name" placeholder="Enter Your Email" required>
                <br>
                <label for="male">Male</label>
             <input type="radio" id="male" name="gender" value="male" required>
             <label for="female">Female</label>
             <input type="radio" id="female" name="gender" value="female" required>
-            
-            <input class="join-button" type="submit" value="Let's Run!">
+            <br>
+           <input class="button" type="submit" value="Submit">
+       
 
            </form>
-       </div>
+      
    </section>
    <section>
        Contact

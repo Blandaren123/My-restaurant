@@ -108,33 +108,54 @@ max-width: 600px;
 text-align: center;
 }
 #about p{
-padding-left: 10px;
+padding-left: 230px;
 font-size: 25px;
-
+padding-top: 150px;
 }
 #about ul{
-    padding-left: 30px;
+    padding-left: 250px;
     list-style-type: disc;
     font-size: 20px;
 }
+#hours h2{
+    text-align: center;
+    padding-right: 90px;
+}
+
+
 
 /* Join Now  */
-#join-now{
+#form{ 
 
+text-align: center;
 
 }
-#join-now h2{
+#register{
 
     text-align: center;
 }
-
-.join-button{
-    margin-top:20px;
-    border-radius:2px;
-    padding:15px 32px 15px 32px;
-    text-align:center;
-    font-size:100%;
-    background-color:#7B241C;
+.text-input {
+    background:transparent;
     color:#979A9A;
-    display:block;
+    height:25px;
+    margin:5px 0 20px 0;
+    border: 1px solid #fafafa;
+    border-radius: 2px;
+
+
+}
+
+.text-input:hover{
+border-color: #ff0000;
+
+}
+.button{ 
+    margin-top:20px;
+    border-radius: 5px;
+    color:#979A9A;
+    background-color:hsl(0, 97%, 48%) ;
+    font-size: 150%;
+
+  
+
 }
