@@ -215,17 +215,14 @@ font-size: 20px;
 
 /* Media  *for medium to phone screen sizes from 600px wide and down */
 
-@media screen and(max-width 950px){
-#navigation {
-float: left;
-clear:left;
-margin-left: 20px;
-margin-bottom: 20px;
-line-height: 20px;
-}
-#about{
-text-align: left;
-margin: auto;
-}
+@media screen and (max-width: 600px) {
+    #navigation{
+       float: left;
+       margin-left: 20px;
+      
+       line-height: 25px;
+    width: 50%;
+
+} 
 
 }
