@@ -128,7 +128,7 @@ padding-top: 150px;
 #form{ 
 
 text-align: center;
-
+background-color:#2E4053  ;
 }
 #register{
 
@@ -136,10 +136,10 @@ text-align: center;
 }
 .text-input {
     background:transparent;
-    color:#979A9A;
+    color:#FDFEFE;
     height:25px;
     margin:5px 0 20px 0;
-    border: 1px solid #fafafa;
+    border: 1px solid #FDFEFE;
     border-radius: 2px;
 
 
@@ -152,10 +152,41 @@ border-color: #ff0000;
 .button{ 
     margin-top:20px;
     border-radius: 5px;
-    color:#979A9A;
+    color:white;
     background-color:hsl(0, 97%, 48%) ;
     font-size: 150%;
 
   
 
 }
+
+/*   Contact     */
+#contact{
+text-align: center;
+
+}
+
+.contact-container{
+
+    width: 66%;
+    margin: 0 auto;
+
+}
+#open-hours{
+text-align: left;
+
+} 
+
+
+.contact-left{
+    width: 250px;
+    float: left;
+    text-align: left;
+}
+
+.contact-right {
+    width: 250px;
+    text-align: center;
+    float: right;
+}
+
