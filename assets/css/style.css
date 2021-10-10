@@ -21,6 +21,14 @@ font-family: Cabin Condensed, Monserrat;
 text-transform: uppercase;
 letter-spacing: 4px;
 color: #D5DBDB  ;
+
+
+
+}
+
+.motivation h2{
+margin-bottom: 90%;
+margin-left: 150px;
 }
 
 #my-logo{
@@ -29,6 +37,7 @@ font-size: 300%;
 padding-left: 15px;
 
 }
+
 
 /* navigation */
 #navigation{
@@ -61,7 +70,6 @@ border-bottom: 4px solid #FDFEFE;
 }
  .navbar {
     overflow: hidden;
-    position: fixed; 
     top: 0; 
     width: 100%; 
  }
@@ -195,12 +203,32 @@ text-align: left;
 footer{
 height: 100px;
 text-align: center;
-font-size: 30px;
+font-size: 20px;
 }
 
 .fab, .far {
     font-weight: 400;
     color:#979A9A;
-    font-size: 30px;
+    font-size: 50px;
+
+}
+
+/* Media  *for medium to phone screen sizes from 600px wide and down */
+
+@media screen and (max-width 950px) {
+#navigation {
+float: left;
+clear:left;
+margin-left: 20px;
+margin-bottom: 20px;
+line-height: 20px;
+}
+#about{
+text-align: left;
+margin: auto;
+}
+
+
+
 
 }
