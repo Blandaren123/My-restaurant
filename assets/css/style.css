@@ -95,8 +95,8 @@ max-width: 600px;
 /*  About  */
 #about{
     padding: 5rem 0;
-    margin-bottom: 20px;
-    background-image: url(../images/EQ.jpg);
+    
+    background-image: url('../images/EQ.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: bottom center;
@@ -188,5 +188,19 @@ text-align: left;
     width: 250px;
     text-align: center;
     float: right;
+    margin-bottom: 70px;
 }
 
+/*  Footer   */
+footer{
+height: 100px;
+text-align: center;
+font-size: 30px;
+}
+
+.fab, .far {
+    font-weight: 400;
+    color:#979A9A;
+    font-size: 30px;
+
+}
