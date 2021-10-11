@@ -16,7 +16,7 @@ On the website you will find a motivation qoute, open times, price per month, ad
 - All black background, so you can easily read the text.
 - The underline highlight the section where you are.
 
- ![image](https://user-images.githubusercontent.com/90210402/136708395-a7ee8787-14ed-4d2a-880e-2fc97aceafb4.png)
+![image](https://user-images.githubusercontent.com/90210402/136708395-a7ee8787-14ed-4d2a-880e-2fc97aceafb4.png)
 
 - __first section image and Header__
 - The gym pictures on this page illustrate what this page is all about.
@@ -61,4 +61,13 @@ On the website you will find a motivation qoute, open times, price per month, ad
 
 - __Bugs__
 - When targeting the icon element, I tried different code because it was very small and had purple color.
-- 
+![image](https://user-images.githubusercontent.com/90210402/136836625-ccb4a433-b460-44a9-89c6-671f9f7bfa82.png)
+
+- When I turned to Google, I found how to solve the problem
+- solving with this ![image](https://user-images.githubusercontent.com/90210402/136836749-74a501b5-3c26-407d-a089-bf8c465ed0ba.png) worked fine
+
+# Validator Testing 
+- ##HTML
+- No Error on the official [w3c](https://validator.w3.org/nu/?doc=https%3A%2F%2Fblandaren123.github.io%2FTeds-gym%2F)
+
+
