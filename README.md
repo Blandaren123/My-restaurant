@@ -75,4 +75,15 @@ On the website you will find a motivation qoute, open times, price per month, ad
 - It's confirmed that the colors and fonts chosen are readable in devtools when tested through Lighthouse
 ![image](https://user-images.githubusercontent.com/90210402/136838831-158f7fbe-4258-4332-9afa-8090c6a7bc11.png)
 
+# Unfixed Bugs
+No Unfixed Bugs
+
+# Deployment
+- This site was published through GitHub pages. To promote the site, follow these steps:
+1. In the GitHub repository, navigate to the Settings tab
+2. From the source section drop-down menu, select the Main Branch
+3. When the main branch is selected, a detailed ribbon display will show to indicate the successful deployment.
+
+Here is the link [Teds](https://blandaren123.github.io/Teds-gym/)
+
 
