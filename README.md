@@ -67,7 +67,12 @@ On the website you will find a motivation qoute, open times, price per month, ad
 - solving with this ![image](https://user-images.githubusercontent.com/90210402/136836749-74a501b5-3c26-407d-a089-bf8c465ed0ba.png) worked fine
 
 # Validator Testing 
-- ##HTML
+## HTML
 - No Error on the official [w3c](https://validator.w3.org/nu/?doc=https%3A%2F%2Fblandaren123.github.io%2FTeds-gym%2F)
+## CSS
+- No Error on the official [jigsaw](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fblandaren123.github.io%2FTeds-gym%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=sv)
+## Accessbility
+- It's confirmed that the colors and fonts chosen are readable in devtools when tested through Lighthouse
+![image](https://user-images.githubusercontent.com/90210402/136838831-158f7fbe-4258-4332-9afa-8090c6a7bc11.png)
 
 
