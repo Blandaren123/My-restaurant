@@ -86,4 +86,12 @@ No Unfixed Bugs
 
 Here is the link [Teds](https://blandaren123.github.io/Teds-gym/)
 
+# Credits
+## Contents
+- The quotations were taken from Google and written by Napoleon Hill
+- The Form was taken and mix with youtuber tutorial [here](https://www.youtube.com/watch?v=UEZ60e4MsgA&t=643s).
+
+## Media
+- The image for Header and about was taken from [pexels](https://www.pexels.com/sv-se/)
+
 
