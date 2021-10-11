@@ -40,13 +40,18 @@ On the website you will find a motivation qoute, open times, price per month, ad
 ![image](https://user-images.githubusercontent.com/90210402/136830780-89b70c43-83f7-4d91-9f46-cfc539e22f16.png)
 
 
-- __contact and Address__
+- __Contact and Address__
 - There is an address for where the facility is located, as well as an e-mail and phone number
 - The hours during which manned operators are available
 - Follow us on social media or look for inspiration with this big social icon
 
 ![image](https://user-images.githubusercontent.com/90210402/136832341-6e885978-89d3-4081-a22e-6cf3e04d2bde.png)
 
+- __Features implement__
+- Picture gallery with inspiring quotes along with the pictures
+- An online booking system to book training sessions
 
+
+# Testing
 
 
