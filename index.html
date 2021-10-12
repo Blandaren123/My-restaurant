@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -8,152 +9,143 @@
     <meta name="description" content="Teds">
     <link rel="stylesheet" href="assets/css/style.css">
     <title>Teds
-</title>
+    </title>
 </head>
+
 <body>
 
-   <header class="navbar">
-       <a href="index.html"><h1 id="my-logo">Teds</h1>
-        
-       </a>
-       <nav>
-        <ul id="navigation">
-            
-          <li><a href="#contact">Contact</a></li>
-          <li><a href="#form">Join now</a></li>
-          <li><a href="#about" class="active">About</a></li>
-        </ul>
-      </nav>
-   </header>
- 
-   <section>
-       <div id="image">
-        <div class="motivation">
-            
-        <h2>If You Can Believe It The Mind Can Achieve It</h2>
- 
- 
-        </div>
-       </div>
-   </section>
-   <section id="about">
-       <h2>About</h2>
-       <h3>Local gym just opened. We are looking for members to train in our newly built facility</h3>
-       <h3>With business experience of 10 years</h3>
-       <br>
-       <br>
-       <p>We offer you:</p>
-       <ul>
-           <li>Fitness trainer</li>
-           <li>The latest equipment</li>
-           <li>A facility that is open 24 hours a day</li>
-           <li>The automated drinks machine</li>
-           <li>Diet and training schedule</li>
+    <header class="navbar">
+        <a href="index.html">
+            <h1 id="my-logo">Teds</h1>
 
-        
-    
-    </ul>
-<br><br><br>
-    <h2 id="hours">Open 24-hours</h2>
-       
-   </section>
-   <section id="form">
-       <h2>join now for 199kr/month</h2>
-       
-           
-           <form id="register" method="POST" class="signup">
-               <label>First Name</label>
-               <br>
-               <input class="text-input" type="text" name="fname" id="fname"
-               placeholder="Enter Your First Name" required>
-               <br>
-               <br>
-               <label>Last Name</label>
-               <br>
-               <input class="text-input" type="text" name="lname" id="lname"
-               placeholder="Enter Your Last Name" required>
-               <br>
-               <br>
-               <label>Age</label>
-               <br>
-               <input class="text-input" type="number" min="16" name="age" id="number"
-               placeholder="Must be over 16!" required>
-               <br>
-               <br>
-               <label>Email</label>
-               <br>
-               <input class="text-input" type="email" name="email"
-               id="name" placeholder="Enter Your Email" required>
-               <br>
-               <label for="male">Male</label>
+        </a>
+        <nav>
+            <ul class="navigation">
+
+                <li><a href="#contact">Contact</a></li>
+                <li><a href="#form">Join now</a></li>
+                <li><a href="#about" class="active">About</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section>
+        <div class="image">
+            <div class="motivation">
+
+                <h2>If You Can Believe It The Mind Can Achieve It</h2>
+
+
+            </div>
+        </div>
+    </section>
+    <section class="about">
+        <h2>About</h2>
+        <h3>Local gym just opened. We are looking for members to train in our newly built facility</h3>
+        <h3>With business experience of 10 years</h3>
+        <br>
+        <br>
+        <p>We offer you:</p>
+        <ul>
+            <li>Fitness trainer</li>
+            <li>The latest equipment</li>
+            <li>A facility that is open 24 hours a day</li>
+            <li>The automated drinks machine</li>
+            <li>Diet and training schedule</li>
+        </ul>
+        <br><br><br>
+        <h2 class="hours">Open 24-hours</h2>
+
+    </section>
+    <section class="form">
+        <h2>join now for 199kr/month</h2>
+
+
+        <form class="register" method="POST" action="form.html" >
+            <label>First Name</label>
+            <br>
+            <input class="text-input" type="text" name="fname" id="fname" placeholder="Enter Your First Name" required>
+            <br>
+            <br>
+            <label>Last Name</label>
+            <br>
+            <input class="text-input" type="text" name="lname" id="lname" placeholder="Enter Your Last Name" required>
+            <br>
+            <br>
+            <label>Age</label>
+            <br>
+            <input class="text-input" type="number" min="16" name="age" id="number" placeholder="Must be over 16!"
+                required>
+            <br>
+            <br>
+            <label>Email</label>
+            <br>
+            <input class="text-input" type="email" name="email" id="name" placeholder="Enter Your Email" required>
+            <br>
+            <label for="male">Male</label>
             <input type="radio" id="male" name="gender" value="male" required>
             <label for="female">Female</label>
             <input type="radio" id="female" name="gender" value="female" required>
             <br>
-           <input class="button" type="submit" value="Submit">
-       
+            <input class="button" type="submit" value="Submit">
+        </form>
 
-           </form>
-      
-   </section>
-  <br>
-  <br>
-<section id="contact">
-       <h2>Contact</h2>
-       <br>
-       <br>
-   
-       <div class="contact-left">
-           <h3 id="open-hours">Hours of manned operation</h3>
-           <table class="text-table">
-		
-			<tr>
-				<td>Mon-Fri</td>
-				<td>10:00</td>
-				<td>16:00</td>
-			</tr>
-			<tr>
-				<td>Weekend</td>
-				<td>12:00</td>
-				<td>15:00</td>
-			</tr>	
-			</table>
-</div>
+    </section>
+    <br>
+    <br>
+    <section class="contact">
+        <h2>Contact</h2>
+        <br>
+        <br>
 
-<div class="contact-right">
-    <h3>Get in touch</h3>
-
-    <div>
-    <span>Phone: </span>
-    <span>08-553 636 55</span>
-    </div>
-    <div>
-        <span>Email: </span>
-        <span>Medersten@gmail.com</span>
+        <div class="contact-left">
+            <h3 class="open-hours">Hours of manned operation</h3>
+            <table class="text-table">
+                <tr>
+                    <td>Mon-Fri</td>
+                    <td>10:00</td>
+                    <td>16:00</td>
+                </tr>
+                <tr>
+                    <td>Weekend</td>
+                    <td>12:00</td>
+                    <td>15:00</td>
+                </tr>
+            </table>
         </div>
+        <div class="contact-right">
+            <h3>Get in touch</h3>
+            <div>
+                <span>Phone: </span>
+                <span>08-553 636 55</span>
+            </div>
+            <div>
+                <span>Email: </span>
+                <span>Medersten@gmail.com</span>
+            </div>
+            <br>
+            <br>
+            <div>
+                <h3>Address</h3>
+                <p>Säbyvägen 25,<br>144 30 Stockholm,<br>Sweden</p>
+            </div>
+
+        </div>
+    </section>
     <br>
     <br>
-    <div>
-        <h3>Address</h3>
-        <p>Säbyvägen 25,<br>144 30 Stockholm,<br>Sweden</p>
-    </div>
-
-</div>
-
-   
-</section>
-<br>
-<br>
-   <footer>
-    
-
-    <a href="https://www.facebook.com" target="_blank" rel="noopener" aria-label="Find us on Facebook (link opens in a new tab)"><i class="fab fa-facebook-square"></i></a>
-    <a href="https://www.instagram.com" target="_blank" rel="noopener" aria-label="Find us on Instagram (link opens in a new tab)"><i class="fab fa-instagram-square"></i></a>
-    <a href="https://www.twitter.com" target="_blank" rel="noopener" aria-label="Find us on Twitter (link opens in a new tab)"><i class="fab fa-twitter-square"></i></a>
-   </footer>
+    <footer>
 
 
-   <!--font awesome -->
-   <script src="https://kit.fontawesome.com/63a686425a.js" crossorigin="anonymous"></script>
+        <a href="https://www.facebook.com" target="_blank" rel="noopener"
+            aria-label="Find us on Facebook (link opens in a new tab)"><i class="fab fa-facebook-square"></i></a>
+        <a href="https://www.instagram.com" target="_blank" rel="noopener"
+            aria-label="Find us on Instagram (link opens in a new tab)"><i class="fab fa-instagram-square"></i></a>
+        <a href="https://www.twitter.com" target="_blank" rel="noopener"
+            aria-label="Find us on Twitter (link opens in a new tab)"><i class="fab fa-twitter-square"></i></a>
+    </footer>
+    <!--font awesome -->
+    <script src="https://kit.fontawesome.com/63a686425a.js" crossorigin="anonymous"></script>
 </body>
+
 </html>
