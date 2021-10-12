@@ -14,6 +14,11 @@ body {
     background-color: #000000;
 }
 
+a:visited {
+    text-decoration: none;
+    color: #979A9A;
+}
+
 /* headings and logo */
 h1,
 h2 {
@@ -25,15 +30,13 @@ h2 {
 
 .motivation h2 {
     margin-bottom: 90%;
-    margin-left: 150px;
+    margin-left: 15px;
 }
 
 .my-logo {
     float: left;
     font-size: 300%;
     padding-left: 15px;
-    text-decoration: none;
-
 }
 
 
@@ -41,13 +44,12 @@ h2 {
 .navigation {
     font-size: 120%;
     letter-spacing: 4px;
-
 }
 
 .navigation,
 .my-logo {
-
     line-height: 90px;
+
 }
 
 .navigation li {
@@ -71,6 +73,7 @@ h2 {
     overflow: hidden;
     top: 0;
     width: 100%;
+    position: fixed;
 }
 
 
@@ -95,8 +98,18 @@ h2 {
     font-size: 2.1em;
     padding-bottom: 650px;
     color: #979A9A;
+}
 
+.join-now h3 {
+    text-align: center;
+    font-size: 300%;
+    margin-bottom: 35%;
+    margin-left: 40px;
+}
 
+.commitment {
+    padding-left: 20%;
+    color: #FDFEFE;
 }
 
 /*  About  */
@@ -182,7 +195,7 @@ h3 {
 
 .contact-container {
 
-    
+
     width: 20;
 
 }
@@ -228,10 +241,19 @@ footer {
     .navigation {
         float: left;
         margin-left: 20px;
-
         line-height: 25px;
         width: 50%;
 
     }
 
+    .commitment {
+        clear: right;
+        float: left;
+        text-align: left;
+    }
+
+    .navbar {
+        position: none;
+
+    }
 }
