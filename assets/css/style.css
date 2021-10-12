@@ -154,10 +154,13 @@ h3 {
     text-align: center;
     background-color: #2E4053;
 }
-
+.form h2{
+    padding: 5rem 0;
+}
 .register {
-
     text-align: center;
+    margin: 25px 10% 0 0;
+    color: #979A9A;
 }
 
 .text-input {
