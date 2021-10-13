@@ -17,40 +17,46 @@ On the website you will find a motivation qoute, open times, price per month, ad
   * By using this section, the user can easily navigate between sections across all devices without having to switch back to the previous one.
   * The underline highlight the section where you are.
 
-![image info](./assets/images/readme/nav.png)
+![image info](./assets/images/readme/navbar.png)
 
-- __first section image and Header__
-- The gym pictures on this page illustrate what this page is all about.
-- The wake up call quotes that motivate people.
-- Making it look simple is the first step for that is all it takes. 
- ![image](https://user-images.githubusercontent.com/90210402/136828430-2b253e24-525d-4c31-9b7b-c81d3ce46923.png)
+- __First section image and Header__
+  * The gym pictures on this page illustrate what this page is all about.
+  * The wake up call quotes that motivate people.
+  * Making it look simple is the first step for that is all it takes. 
+  * Some background information about the gym
+  * There is a Join button so you can directly go to the sign-up form
+
+![image info](./assets/images/readme/section1.PNG)
 
 - __About section__
-- A very experienced owner owns this gym, which has just opened its doors.
-- The top reasons not to go to another gym but this one.
-- Accessible 24 hours a day.
-  
-![image](https://user-images.githubusercontent.com/90210402/136829283-24a4bcbd-77c3-4450-b471-d70a758781b3.png)
+  * A very experienced owner owns this gym, which has just opened its doors.
+  * The top reasons not to go to another gym but this one.
+  * Accessible 24 hours a day.
+  * Photograph of the personal trainer/owner
+
+![image info](./assets/images/readme/section2.PNG)
 
 - __Join Now__
-- A great opportunity to join us now.
-- To submit, all fields must be filled out.
-- Hover over the borderline and a red color will indicate what field you're on.
-- The submit button is highlighted in red and white text.
+  * A great opportunity to join us now.
+  * To submit, all fields must be filled out.
+  * Hover over the borderline and a red color will indicate what field you're on.
+  * The submit button is highlighted in red and white text.
+  * All black background to match the color for the website
 
-![image](https://user-images.githubusercontent.com/90210402/136830780-89b70c43-83f7-4d91-9f46-cfc539e22f16.png)
+![image info](./assets/images/readme/form.PNG)
 
 
 - __Contact and Address__
-- There is an address for where the facility is located, as well as an e-mail and phone number.
-- The hours during which manned operators are available.
-- Follow us on social media or look for inspiration with this big social icon.
+  * There is an address for where the facility is located, as well as an e-mail and phone number.
+  * The hours during which manned operators are available.
+  * Follow us on social media or look for inspiration with this big social icon.
+  * Button for going all up, if you dont want to scroll in mobile version
 
-![image](https://user-images.githubusercontent.com/90210402/136832341-6e885978-89d3-4081-a22e-6cf3e04d2bde.png)
+![image info](./assets/images/readme/footer.lastsection.PNG)
 
 - __Features implement__
-- Picture gallery with inspiring quotes along with the pictures.
-- An online booking system to book training sessions.
+  * Picture gallery with inspiring quotes along with the pictures.
+  * An online booking system to book training sessions.
 
 
 # Testing
