@@ -199,21 +199,15 @@ img {
 /*   Contact     */
 .contact {
     text-align: center;
-
 }
 
 .contact-container {
-
-
     width: 20px;
-
 }
 
 .open-hours {
     text-align: left;
-
 }
-
 
 .contact-left {
     width: 250px;
@@ -241,7 +235,6 @@ footer {
     font-weight: 400;
     color: #979A9A;
     font-size: 50px;
-
 }
 
 #up {
@@ -258,7 +251,6 @@ footer {
         margin-left: 20px;
         line-height: 25px;
         width: 50%;
-
     }
 
     .commitment {
