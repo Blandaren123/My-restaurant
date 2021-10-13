@@ -1,7 +1,7 @@
 # Teds 
 
 Teds is a gym place where all kinds of people can start to train. 
-People from 16 years and above can join us on the website. 
+People from 16 years and above can join us on the website. asdasd
 
 
 Teds is a website that will be targeted towards people who want to join a great Gym and for those with different schedules in life, accessibility is important because of 24 hours open time.
