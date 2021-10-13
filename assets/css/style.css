@@ -80,7 +80,6 @@ h2 {
     position: fixed;
 }
 
-
 /* Image and motivation*/
 .image {
     min-height: 100vh;
@@ -167,6 +166,7 @@ img {
     text-align: center;
     margin: 25px 10% 0 0;
     color: #979A9A;
+    margin-left: 10%;
 }
 
 .text-input {
@@ -233,7 +233,7 @@ img {
 footer {
     height: 50px;
     text-align: center;
-    font-size: 30px;
+    font-size: 20px;
 }
 
 .fab,
@@ -242,6 +242,12 @@ footer {
     color: #979A9A;
     font-size: 50px;
 
+}
+
+#up {
+    margin-top: 10%;
+    text-align: center;
+    margin-left: 14%;
 }
 
 /* Media  *for medium to phone screen sizes from 600px wide and down */
@@ -264,5 +270,10 @@ footer {
     .navbar {
         position: absolute;
 
+    }
+
+    #up {
+        text-align: center;
+        margin-top: 30%;
     }
 }
