@@ -1,7 +1,8 @@
-# Teds 
+# Purpose of the project
 
-Teds is a gym place where all kinds of people can start to train. 
-People from 16 years and above can join us on the website. asdasd
+This page represents a newly launched gym named Teds.
+On the page, it provides information about the gym's location and its benefits.
+People from 16 years and above can join us on the website. 
 
 
 Teds is a website that will be targeted towards people who want to join a great Gym and for those with different schedules in life, accessibility is important because of 24 hours open time.
