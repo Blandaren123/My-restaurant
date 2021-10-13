@@ -4,20 +4,20 @@ This page represents a newly launched gym named Teds.
 On the page, it provides information about the gym's location and its benefits.
 People from 16 years and above can join us on the website. 
 
+# user stories
 
 Teds is a website that will be targeted towards people who want to join a great Gym and for those with different schedules in life, accessibility is important because of 24 hours open time.
 On the website you will find a motivation qoute, open times, price per month, address and form to signing up and Address and contact information for further questions.
-![image](https://user-images.githubusercontent.com/90210402/136708302-eda62b92-ed64-4392-a2b4-ce46e4d52277.png)
+![image info](./assets/images/readme/device.png)
 
 
 ### Features
 - __Navigation Bar__
--   The navigation bar is fully responsive, allowing users to navigate easily from Logo, About, Join Now, and Contact all on one page.
-- By using this section, the user can easily navigate between sections across all devices without having to switch back to the previous one.
-- All black background, so you can easily read the text.
-- The underline highlight the section where you are.
+  * The navigation bar is fully responsive, allowing users to navigate easily from Logo, About, Join Now, and Contact all on one page.
+  * By using this section, the user can easily navigate between sections across all devices without having to switch back to the previous one.
+  * The underline highlight the section where you are.
 
-![image](https://user-images.githubusercontent.com/90210402/136708395-a7ee8787-14ed-4d2a-880e-2fc97aceafb4.png)
+![image info](./assets/images/readme/nav.png)
 
 - __first section image and Header__
 - The gym pictures on this page illustrate what this page is all about.
