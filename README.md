@@ -11,7 +11,7 @@ On the website you will find a motivation qoute, open times, price per month, ad
 ![image info](./assets/images/readme/device.png)
 
 
-### Features
+# Features
 - __Navigation Bar__
   * The navigation bar is fully responsive, allowing users to navigate easily from Logo, About, Join Now, and Contact all on one page.
   * By using this section, the user can easily navigate between sections across all devices without having to switch back to the previous one.
@@ -54,10 +54,19 @@ On the website you will find a motivation qoute, open times, price per month, ad
 
 ![image info](./assets/images/readme/footer.lastsection.PNG)
 
-- __Features implement__
+# Futures implement
   * Picture gallery with inspiring quotes along with the pictures.
   * An online booking system to book training sessions.
 
+# Typography and color scheme
+- Color: white, gray and black
+
+# wireframes
+- __wireframes desktop__
+![image info](./assets/images/readme/wireframes1.PNG)
+
+- __wireframes phone__
+![image info](./assets/images/readme/wireframes2.PNG)
 
 # Testing
 
@@ -68,10 +77,13 @@ On the website you will find a motivation qoute, open times, price per month, ad
 
 - __Bugs__
 - When targeting the icon element, I tried different code because it was very small and had purple color.
-![image](https://user-images.githubusercontent.com/90210402/136836625-ccb4a433-b460-44a9-89c6-671f9f7bfa82.png)
+
+![image info](./assets/images/readme/bugg.test1.png)
 
 - When I turned to Google, I found how to solve the problem
-- solving with this ![image](https://user-images.githubusercontent.com/90210402/136836749-74a501b5-3c26-407d-a089-bf8c465ed0ba.png) worked fine
+- solving with this 
+
+![image info](./assets/images/readme/bugg.test2.png) worked fine
 
 # Validator Testing 
 ## HTML
@@ -80,7 +92,7 @@ On the website you will find a motivation qoute, open times, price per month, ad
 - No Error on the official [jigsaw](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fblandaren123.github.io%2FTeds-gym%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=sv)
 ## Accessbility
 - It's confirmed that the colors and fonts chosen are readable in devtools when tested through Lighthouse
-![image](https://user-images.githubusercontent.com/90210402/136838831-158f7fbe-4258-4332-9afa-8090c6a7bc11.png)
+![image info](./assets/images/readme/lighthouse.PNG)
 
 # Unfixed Bugs
 No Unfixed Bugs
