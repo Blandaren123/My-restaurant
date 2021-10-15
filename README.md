@@ -68,6 +68,17 @@ On the website you will find a motivation qoute, open times, price per month, ad
 - __wireframes phone__
 ![image info](./assets/images/readme/wireframes2.PNG)
 
+# Technology
+- Wireframes for layout on desktop and mobile in Balsamiq tools.
+- This site was laid out and structured using HTML.
+- Style and appearance using CSS.
+- Use Github to deploy the project and read the README.
+- Gitpod is used for coding.
+- CodeInstuite project, YouTube, and Google for tutorials and troubleshooting.
+- Skype for contact with the mentor for tips and advice. 
+- jigsaw, W3c and lighthouse for testing and troubleshoot.
+
+
 # Testing
 
 - I tested this side on Microsoft edge and Chrome and it seems to works great.
