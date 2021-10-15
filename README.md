@@ -4,7 +4,7 @@ This page represents a newly launched gym named Teds.
 On the page, it provides information about the gym's location and its benefits.
 People from 16 years and above can join us on the website. 
 
-# user stories
+# User stories
 
 Teds is a website that will be targeted towards people who want to join a great Gym and for those with different schedules in life, accessibility is important because of 24 hours open time.
 On the website you will find a motivation qoute, open times, price per month, address and form to signing up and email-address and contact information for further questions.
@@ -98,9 +98,9 @@ On the website you will find a motivation qoute, open times, price per month, ad
 
 # Validator Testing 
 ## HTML
-- No Error on the official [w3c](https://validator.w3.org/nu/?doc=https%3A%2F%2Fblandaren123.github.io%2FTeds-gym%2F)
+- No Error on the official [w3c HTML Validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fblandaren123.github.io%2FTeds-gym%2F)
 ## CSS
-- No Error on the official [jigsaw](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fblandaren123.github.io%2FTeds-gym%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=sv)
+- No Error on the official [jigsaw CSS validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fblandaren123.github.io%2FTeds-gym%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=sv)
 ## Accessbility
 - It's confirmed that the colors and fonts chosen are readable in devtools when tested through Lighthouse
 ![image info](./assets/images/readme/lighthouse.PNG)
