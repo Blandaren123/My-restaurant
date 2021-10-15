@@ -7,7 +7,7 @@ People from 16 years and above can join us on the website.
 # user stories
 
 Teds is a website that will be targeted towards people who want to join a great Gym and for those with different schedules in life, accessibility is important because of 24 hours open time.
-On the website you will find a motivation qoute, open times, price per month, address and form to signing up and Address and contact information for further questions.
+On the website you will find a motivation qoute, open times, price per month, address and form to signing up and email-address and contact information for further questions.
 ![image info](./assets/images/readme/device.png)
 
 
